@@ -1,0 +1,69 @@
+/* GNU */
+@font-face {
+    font-family: GNUUnifont9FullHintInstrUCSUR;
+    src: url(./GNU-Unifont/GNUUnifont9FullHintInstrUCSUR.ttf);
+}
+/* 霞鹜文楷 */
+@font-face {
+    font-family: LXGWMunHaeHangul-B;
+    src: url(./LxgwWenKai-main/Hangul/LXGWMunHaeHangul-B.ttf);
+}
+@font-face {
+    font-family: LXGWMunHaeHangul-L;
+    src: url(./LxgwWenKai-main/Hangul/LXGWMunHaeHangul-L.ttf);
+}
+@font-face {
+    font-family: LXGWMunHaeHangul-R;
+    src: url(./LxgwWenKai-main/Hangul/LXGWMunHaeHangul-R.ttf);
+}
+@font-face {
+    font-family: LxgwWenKaiMonoLatin-Bold;
+    src: url(./LxgwWenKai-main/MonoLatin/LxgwWenKaiMonoLatin-Bold.ttf);
+}
+@font-face {
+    font-family: LxgwWenKaiMonoLatin-Light;
+    src: url(./LxgwWenKai-main/MonoLatin/LxgwWenKaiMonoLatin-Light.ttf);
+}
+@font-face {
+    font-family: LxgwWenKaiMonoLatin-Regular;
+    src: url(./LxgwWenKai-main/MonoLatin/LxgwWenKaiMonoLatin-Regular.ttf);
+}
+/* 麦当劳字体 */
+@font-face {
+    font-family: McDonald_s_Fries_Font;
+    src: url(./McDonalds_Fries_Font-main/McDonald_s_Fries_Font.ttf);
+}
+/* RHR */
+@font-face {
+    font-family: ResourceHanRoundedCN-Bold;
+    src: url(./RHR-CN-0.990/ResourceHanRoundedCN-Bold.ttf);
+}
+@font-face {
+    font-family: ResourceHanRoundedCN-ExtraLight;
+    src: url(./RHR-CN-0.990/ResourceHanRoundedCN-ExtraLight.ttf);
+}
+@font-face {
+    font-family: ResourceHanRoundedCN-Heavy;
+    src: url(./RHR-CN-0.990/ResourceHanRoundedCN-Heavy.ttf);
+}
+@font-face {
+    font-family: ResourceHanRoundedCN-Light;
+    src: url(./RHR-CN-0.990/ResourceHanRoundedCN-Light.ttf);
+}
+@font-face {
+    font-family: ResourceHanRoundedCN-Medium;
+    src: url(./RHR-CN-0.990/ResourceHanRoundedCN-Medium.ttf);
+}
+@font-face {
+    font-family: ResourceHanRoundedCN-Normal;
+    src: url(./RHR-CN-0.990/ResourceHanRoundedCN-Normal.ttf);
+}
+@font-face {
+    font-family: ResourceHanRoundedCN-Regular;
+    src: url(./RHR-CN-0.990/ResourceHanRoundedCN-Regular.ttf);
+}
+/* 濑户 */
+@font-face {
+    font-family: 濑户字体简体;
+    src: url(./LH/濑户字体简体.ttf);
+}

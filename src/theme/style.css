@@ -1,0 +1,11 @@
+:export {
+  name: "less";
+  themeColor1: var(--themeColor1);
+  themeColor2: var(--themeColor2);
+  themeColor3: var(--themeColor3);
+  themeColor4: var(--themeColor4);
+  themeColor5: var(--themeColor5);
+  themeColor6: var(--themeColor6);
+  themeColor7: var(--themeColor7);
+  themeFontFamily: var(--themeFontFamily);
+}
